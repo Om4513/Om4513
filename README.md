@@ -19,6 +19,18 @@ I enjoy building practical, real-world projects that simulate IT workflows, auth
 
 ---
 
+## 🛠️ Technical Skills
+
+- Python
+- SQLite
+- Streamlit
+- Git & GitHub
+- Basic Linux
+- Cloud (AWS Basics)
+- Cybersecurity Fundamentals
+
+---
+
 ## 🚀 Interests
 I am open to collaborating on projects related to:
 - Cybersecurity & Threat Detection  
