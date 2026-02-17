@@ -1,12 +1,49 @@
-- 👋 Hi, I’m @Om4513
-- 👀 I’m interested in the Information and Cybersecurity Field...
-- 🌱 I’m currently learning Blockchain technology, Python Programming Developer, and AI/ML in the field of information and cybersecurity.
-- 💞️ I’m looking to collaborate on: Open to Cybersecurity, Blockchain Technology, and AI/ML-driven threat detection projects. 🚀 let's build something great together!....
-- 📫 How to reach me: You can connect with me via GitHub or any other platform you prefer (feel free to add contact details here)...
-- 😄 Pronouns: Babar....
-- ⚡ Fun fact: ⚡ I believe the future of cybersecurity lies at the intersection of AI, Blockchain, and AI-ML for intelligent threat detection, Blockchain for secure and tamper-proof transactions, and ML for continuous learning against cyber threats!...
+# 👋 Hi, I'm Om Babar (@Om4513)
 
-<!---
-Om4513/Om4513 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 IT Support / Tech Support | Cloud & Devops Enthusiast | Cybersecurity Learner | Python Developer  
+
+---
+
+## 👀 About Me
+I am passionate about the Information Technology and Cybersecurity domain.  
+I enjoy building practical, real-world projects that simulate IT workflows, authentication systems, and secure application development.
+
+---
+
+## 🌱 Currently Learning
+- Cloud Computing (AWS Basics)
+- Cybersecurity Fundamentals  
+- Python Development  
+- AI/ML for Security Applications  
+- Blockchain Technology  
+
+---
+
+## 🚀 Interests
+I am open to collaborating on projects related to:
+- Cybersecurity & Threat Detection  
+- Cloud & IT Infrastructure  
+- Blockchain-based Systems  
+- AI/ML  
+
+Let’s build secure and impactful solutions together!
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/Om4513  
+- LinkedIn: (https://www.linkedin.com/in/om-babar-489a56256/)
+
+---
+
+## ⚡ Fun Fact
+I strongly believe the future of cybersecurity lies at the intersection of:
+- Artificial Intelligence  
+- Machine Learning  
+- Blockchain Technology  
+
+Combining these technologies can enable intelligent threat detection, secure transactions, and adaptive defense systems.
+
+---
+
+⭐ Always learning. Always building. Always improving.
